@@ -53,4 +53,5 @@ osusr78  pts/10       Jul  1 11:05 (10.224.108.133)
 osusr67  pts/11       Jul  1 11:05 (10.225.8.21)
 
 # 1.12
-# ทำไม่เป็น
+-bash-4.1$ touch test1.txt | ls
+test1.txt  test2.txt
